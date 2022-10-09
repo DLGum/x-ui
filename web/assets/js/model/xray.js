@@ -24,6 +24,9 @@ const SSMethods = {
     CHACHA20_POLY1305: 'chacha20-poly1305',
     AES_256_GCM: 'aes-256-gcm',
     AES_128_GCM: 'aes-128-gcm',
+    2022-blake3-aes-128-gcm: '2022-blake3-aes-128-gcm',
+    2022-blake3-aes-256-gcm: '2022-blake3-aes-256-gcm',
+    2022-blake3-chacha20-poly1305: '2022-blake3-chacha20-poly1305',
 };
 
 const RULE_IP = {
